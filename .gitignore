@@ -1,0 +1,36 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+vendor/
+__pycache__/
+target/
+bin/
+obj/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Database files
+*.db
+*.sqlite
+*.dump
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Language-specific (Node.js)
+package-lock.json
+yarn-error.log
