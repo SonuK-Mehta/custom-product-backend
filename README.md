@@ -140,8 +140,8 @@ Use tools like [Postman](https://www.postman.com/) or [Thunder Client](https://w
 
 ## 🌐 Deployment
 
-- Hosted on: [e.g., Render, Railway, Heroku]
-- MongoDB via: [e.g., MongoDB Atlas]
+- Hosted on: Render
+- MongoDB via: MongoDB Atlas
 - Add production `MONGO_URI`, `JWT_SECRET` in environment settings
 
 ---
