@@ -153,4 +153,4 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Made by [Your Name](https://github.com/yourusername) – Full Stack Developer.
+Made by [Sonu Mehta](https://github.com/sonuk-mehta) – Full Stack Developer.
