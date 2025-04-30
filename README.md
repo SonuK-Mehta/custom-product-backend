@@ -47,8 +47,7 @@ This is the backend API for a full-stack e-commerce web application that allows 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd backend
+git clone https://github.com/SonuK-Mehta/custom-product-backend.git
 ```
 
 ### 2. Install Dependencies
@@ -62,7 +61,7 @@ npm install
 Create a `.env` file in the root of `backend` and add:
 
 ```
-PORT=5000
+PORT=8080
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
@@ -73,7 +72,7 @@ JWT_SECRET=your_jwt_secret
 npm run dev
 ```
 
-Server will run on `http://localhost:5000`
+Server will run on `http://localhost:8080`
 
 ---
 
